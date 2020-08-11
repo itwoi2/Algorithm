@@ -12,4 +12,12 @@ Recursive merge sort
 Bubble sort  
 Selection sort  
 Insertion sort  
-
+C++ built-in map  
+binary tree search   
+hashing with chain   
+iterative binary search   
+recursive binary search  
+Matrix-chain-order  
+Memorized-matrix-chain  
+Recursive-matrix-chain  
+Optimal Binary Search Tree   
